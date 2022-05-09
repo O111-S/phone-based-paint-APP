@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\..\\..\\ass elec pro"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "app"
+	}
+}
